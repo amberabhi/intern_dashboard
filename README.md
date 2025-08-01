@@ -4,12 +4,15 @@ SETUP INSTRUCTIONS
 Follow the steps below to set up the project on your local machine:
 
 1. clone the repository
-<img width="656" height="53" alt="image" src="https://github.com/user-attachments/assets/c87c180b-4606-451a-84b1-7aa7a1bffa64" />
+### 1. 📦 Clone the Repository
+
+```bash
+git clone https://github.com/amberabhi/intern_dashboard.git
+cd intern_dashboard
+```
 
 
 
-
-2. set up backend(django)
 ### ⚙️ Backend Setup (Django)
 
 ```bash
