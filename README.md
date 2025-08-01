@@ -14,7 +14,19 @@ Follow the steps below to set up the project on your local machine:
 
 
 3. Frontend
+### 💻 Frontend Setup (React + Vite + TailwindCSS)
 
+```bash
+# 1. Navigate to frontend directory
+cd frontend
+
+# 2. Install dependencies
+npm install
+npm install react-router-dom      # For routing support
+
+# 3. Start the frontend development server
+npm run dev
+```
 
 
 
