@@ -10,7 +10,25 @@ Follow the steps below to set up the project on your local machine:
 
 
 2. set up backend(django)
-<img width="666" height="410" alt="image" src="https://github.com/user-attachments/assets/4d33eeb8-c941-4722-8d34-d8879462f614" />
+### ⚙️ Backend Setup (Django)
+
+```bash
+# 1. Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate          # On Windows: venv\Scripts\activate
+
+# 2. Navigate to backend directory
+cd intern_backend
+
+# 3. Install required dependencies
+pip install django djangorestframework django-cors-headers
+
+# 4. Apply database migrations
+python manage.py migrate
+
+# 5. Run the backend server
+python manage.py runserver
+```
 
 
 3. Frontend
