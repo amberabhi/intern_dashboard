@@ -3,7 +3,7 @@
 SETUP INSTRUCTIONS
 Follow the steps below to set up the project on your local machine:
 
-1. clone the repository
+clone the repository
 ### 1. 📦 Clone the Repository
 
 ```bash
