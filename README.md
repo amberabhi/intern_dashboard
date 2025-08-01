@@ -2,7 +2,12 @@ A simple and responsive Intern Dashboard built using Django for the backend and 
 
 🚀 Tech Stack: Django · React · TailwindCSS · Vite
 
+<img src="./assets/welcome.png" width="600"/>
+<img src="./assets/login.png" width="600"/>
+<img src="./assets/signup.png" width="600"/>
 <img src="./assets/dashboard.png" width="600"/>
+<img src="./assets/leaderboard.png" width="600"/>
+
 
 SETUP INSTRUCTIONS
 Follow the steps below to set up the project on your local machine:
