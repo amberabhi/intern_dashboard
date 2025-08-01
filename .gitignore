@@ -1,0 +1,58 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.env
+*.DS_Store
+*.swp
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Django stuff
+*.sqlite3
+*.py[cod]
+db.sqlite3
+media/
+staticfiles/
+*.pem
+
+# === Node / React ===
+node_modules/
+dist/
+.vite/
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# === OS Specific ===
+.DS_Store
+Thumbs.db
+
+# === VS Code / IDEs ===
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# === Git ===
+*.orig
+
+# === Logs and temp ===
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Build ===
+build/
+*.tgz
