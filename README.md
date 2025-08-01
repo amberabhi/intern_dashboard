@@ -3,8 +3,7 @@
 SETUP INSTRUCTIONS
 Follow the steps below to set up the project on your local machine:
 
-clone the repository
-### 1. 📦 Clone the Repository
+###  📦 Clone the Repository
 
 ```bash
 git clone https://github.com/amberabhi/intern_dashboard.git
