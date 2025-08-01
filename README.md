@@ -57,7 +57,7 @@ npm install react-router-dom      # For routing support
 npm run dev
 ```
 
-
+⚠️ If something isn’t working, double-check the steps — each one is essential for running the code smoothly on your local machine.
 
 
 
