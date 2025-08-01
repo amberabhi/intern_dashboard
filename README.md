@@ -13,7 +13,7 @@ SETUP INSTRUCTIONS
 Follow the steps below to set up the project on your local machine:
 
 ###  📦 Clone the Repository
-
+Inside your terminal add the following codes 
 ```bash
 git clone https://github.com/amberabhi/intern_dashboard.git
 cd intern_dashboard
@@ -42,9 +42,9 @@ python manage.py runserver
 ```
 
 
-3. Frontend
-### 💻 Frontend Setup (React + Vite + TailwindCSS)
 
+### 💻 Frontend Setup (React + Vite + TailwindCSS)
+open up a new terminal and then navigate to intern_frontend and run below commands
 ```bash
 # 1. Navigate to frontend directory
 cd intern_frontend
